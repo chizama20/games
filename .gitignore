@@ -1,0 +1,19 @@
+# Visual Studio temp/junk
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.db
+*.opendb
+*.VC.db
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+
+# SFML DLLs
+*.dll
